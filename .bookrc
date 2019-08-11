@@ -1,0 +1,22 @@
+{
+  "name": "Faust: Eine Tragödie",
+  "type": "novel",
+  "has_page_numbers": true,
+  "mode": {
+    "HTML": "html",
+    "CSS": "css",
+    "JS": "js",
+    "HEAD": "html"
+  },
+  "cover": {
+    "punchline": "",
+    "toc": "",
+    "author_detail": "",
+    "colophon": "",
+    "synopsis": ""
+  },
+  "status": "published",
+  "asset_url": "https://raw.githubusercontent.com/marvindanig/faust-eine-trag-die/master/assets",
+  "book_id": 991,
+  "book_url": "https://bubblin.io/book/faust-eine-tragodie-by-johann-wolfgang-von-goethe"
+}
